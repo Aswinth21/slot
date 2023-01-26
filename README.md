@@ -26,7 +26,7 @@ Execute the program
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-<caption><b>SLOT TIME TABLE - SAI SATHYA V (22008626)</b></caption>
+<caption><b>SLOT TIME TABLE - Aswinth T</b></caption>
 <tr align="center">
 <th bgcolor="yellow">Day/Time</th>
 <th bgcolor="yellow">Monday</th>
@@ -111,7 +111,7 @@ Execute the program
 ```
 
 # OUPUT
-![OUTPUT](./out09.png)
+![OUTPUT](./out18.png)
 
 # HTML VALIDATOR
 ![HTML VALIDATOR](./valid09.png)
